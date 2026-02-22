@@ -31,3 +31,15 @@ Python 3.10+ recommended.
 Install dependencies:
 ```bash
 pip install torch numpy matplotlib
+
+## Technologies
+- Python 3.10
+- PyTorch
+- NumPy
+- Matplotlib
+- AdamW optimizer
+- StepLR scheduler
+- Transformer architecture (decoder-only, causal masking)
+- Transfer Learning
+- Weight Tying
+- Early Stopping
