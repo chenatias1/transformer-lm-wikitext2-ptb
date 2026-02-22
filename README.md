@@ -28,10 +28,6 @@ This repository contains a Transformer language model trained from scratch on Wi
 
 Python 3.10+ recommended.
 
-Install dependencies:
-```bash
-pip install torch numpy matplotlib
-
 ## Technologies
 - Python 3.10
 - PyTorch
